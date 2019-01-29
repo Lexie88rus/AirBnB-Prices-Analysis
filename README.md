@@ -14,7 +14,7 @@ The main takeaways of the the analysis using Seattle dataset include:
 ## Repository Contents
 Repository contains following files:
 * *AirBnB Reservation Prices Analysis.ipynb* - Jupyter Notebook (Python 3), contains all source code and steps of the analysis.
-* *seattle* - folder contains media files used in *AirBnB Reservation Prices Analysis.ipynb*.
+* *seattle* - folder contains media files used in *AirBnB Reservation Prices Analysis.ipynb* and datasets for the analysis for your convenience.
 
 ## References
 The following resources were used for the analysis:
